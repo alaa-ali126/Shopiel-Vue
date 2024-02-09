@@ -1,0 +1,1 @@
+import{_ as n,G as c,P as r,j as o,k as a,l as _,q as t,F as p}from"./index-1jY4TLPo.js";const l={components:{Category:c,ProductsList:r}};function d(m,u,i,f,P,g){const e=o("Category"),s=o("ProductsList");return a(),_(p,null,[t(e),t(s,{all:""})],64)}const $=n(l,[["render",d]]);export{$ as default};

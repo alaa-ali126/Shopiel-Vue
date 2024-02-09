@@ -2,7 +2,7 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-you can take a tour in github pages https://alaa-ali126.github.io/Shopiel/
+you can take a tour in github pages https://alaa-ali126.github.io/Shopiel-Vue/
 
 ## Recommended IDE Setup
 

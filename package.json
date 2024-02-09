@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://github.com/alaa-ali126/Vue-Shopiel",
+  "homepage": "https://github.com/alaa-ali126/shopiel-Vue",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d dist",
